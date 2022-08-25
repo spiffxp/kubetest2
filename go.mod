@@ -1,4 +1,4 @@
-module sigs.k8s.io/kubetest2
+module github.com/spiffxp/kubetest2
 
 go 1.17
 
